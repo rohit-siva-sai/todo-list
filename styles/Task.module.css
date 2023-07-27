@@ -1,0 +1,13 @@
+.status {
+    @apply text-base  p-0 rounded-lg;
+}
+
+.planned {
+    @apply bg-gray-200 px-1 py-1
+}
+.ongoing {
+    @apply bg-red-200 px-1 py-1
+}
+.done {
+    @apply bg-green-200 px-1 py-1
+}
